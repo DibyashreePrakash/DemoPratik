@@ -13,6 +13,7 @@ import com.qmetry.*;
 public class HomeTestPage extends WebDriverBaseTestPage<WebDriverTestPage> {
 
 //Managerr
+//By Pratik
 	@FindBy(locator = "btn.menu.flipkart")
 	private QAFWebElement btnMenuFlipkart;
 	@FindBy(locator = "btn.Electronics.flipkart")
